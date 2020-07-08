@@ -7,18 +7,11 @@
 - Semantic Markup
 
 Headings
- - <h1, h2, h3, h4, h5, h6>
  Paragraphs 
-- <p>
 Bold and Italics
-- <b>
-- <i>
 Superscript and Subscript
-- <sup>
-- <sub>
 Line Breaks and Horizontal Rules
-- <br>
-- <hr>
+
 
 Semantic Markup
 There are some text elements that are not intended to affect the 
