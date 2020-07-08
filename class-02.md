@@ -18,19 +18,19 @@ There are some text elements that are not intended to affect the
 structure of your web pages, but they do add extra information to the page.
 
 Strong and Emphasis 
-- <strong>
-- <em>
+- strong
+- em
 
 Quotation
-- <blockquote>
-- <q>
+- blockquote
+- q
 
 Abbreviations and Acronyms
-- <abbr>
+- abbr
 
 Citations and Definitions 
-- <cite>
-- <dfn>
+- cite
+- dfn
 
 ### Chapter 10 "Introducing CSS"
 
